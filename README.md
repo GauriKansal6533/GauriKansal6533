@@ -28,8 +28,8 @@
 ### 🌟 Featured Projects
 | Project | Description | Tech Stack | Demo |
 |--------|-------------|------------|------|
-| 🐰 [Rabbit – Food Delivery App](https://github.com/your-username/rabbit-app) | Real-time food ordering app with secure authentication, intuitive UI, and live order updates | React, Node.js, MongoDB | [Live](#) |
-| 🧠 [AI Resume Analyzer](https://github.com/your-username/ai-resume-analyzer) | Smart AI tool that analyzes resumes, scores skills, and provides improvement suggestions | Python, Flask, OpenAI API | [Live](#) |
+| 🐰 [Rabbit – Food Delivery App](https://github.com/GauriKansal6533/Rabbit-A-Food-Delivery-App.git) | Real-time food ordering app with secure authentication, intuitive UI, and live order updates | React, Node.js, MongoDB | [Live](#) |
+| 🧠 [AI Resume Analyzer](https://github.com/GauriKansal6533/AI-RESUME-ANALYZER.git) | Smart AI tool that analyzes resumes, scores skills, and provides improvement suggestions | Python, Flask, OpenAI API | [Live](#) |
 
 ---
 
