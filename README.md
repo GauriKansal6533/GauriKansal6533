@@ -1,78 +1,56 @@
-<h1 align="center">✨ Hey there, I'm Gauri Kansal 👋</h1>
-<h3 align="center">3rd Year CSE | Full Stack Developer | AI & ML Enthusiast | DSA Explorer 🚀</h3>
+# Hey, I'm Gauri 👋
+
+Final-year CS engineering student who'd rather ship something real than collect another certificate. I build backend systems and AI agents in Java and Python, and I just spent a summer proving a machine learning model on actual government hydrology data — not a Kaggle dataset.
+
+Right now I'm deep in two things: getting genuinely good at Java/Spring Boot + agentic AI, and grinding DSA the honest way (not just pattern-memorizing).
+
+I'm looking for **remote roles, on-site roles, freelance backend/AI work, or an internship** — I can relocate if the role's right, and I can build things that matter. If that's you, scroll to the bottom.
 
 ---
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=36BCF7&center=true&vCenter=true&width=500&lines=Passionate+about+tech+%F0%9F%92%BB;Building+AI+and+Full+Stack+projects+%F0%9F%9A%80;Learning+DSA+and+System+Design+%F0%9F%94%A5" alt="Typing SVG" />
-</p>
+## What I actually work with
+
+**Backend:** Java, Spring Boot, REST APIs
+**AI/Agentic systems:** Python, LangGraph, LangChain4j, Spring AI, prompt-driven pipelines
+**ML:** scikit-learn, pandas, NumPy — regression models, feature engineering, evaluation
+**DSA:** Java, working through Striver's SDE Sheet — arrays, trees, graphs, and building back up the gaps honestly
+**Tools:** Git, GitHub, Docker, VS Code
+
+I'm not going to list every framework I've touched once. If it's not here, I'm not claiming it.
 
 ---
 
-### 🧠 Currently Learning
-- 🚀 Full Stack Development: React, Node.js, Express, MongoDB
-- 🤖 Artificial Intelligence & Machine Learning: Python, OpenAI APIs, LangChain
-- 🧩 Data Structures & Algorithms (LeetCode, GFG)
-- 🏗️ System Design: HLD/LLD concepts, scalable architecture patterns
+## Projects worth your time
+
+### 🌊 Groundwater Level Prediction — NIH Roorkee ML Internship
+Built a Random Forest regression model predicting groundwater levels across 74 wells in the Pennar Basin, using 32 years of seasonal hydrology data — for the National Institute of Hydrology. Took it from a notebook to a live, deployed site.
+**Why it matters:** this wasn't a tutorial project — it's real data, a real institution, and a model that had to actually hold up.
+🔗 [Live site](https://gaurikansal6533.github.io/groundwater-prediction) · [Repo](#)
+
+### 🔧 Self-Healing Autonomous DevOps Agent *(in progress)*
+A Spring Boot service that listens to GitHub webhooks, spins up Docker containers to run tests automatically, and — this is the part I'm building now — uses a Python/LangGraph diagnosis layer to reason about failures instead of just reporting them.
+**Why it matters:** most "AI agent" projects are a wrapper around an API call. This one has to actually make infra decisions.
+🔗 Repo + demo coming soon — check back or ask me directly
+
+*I'm intentionally not padding this list with old bootcamp clones. What's here is what I'll actually defend in an interview.*
 
 ---
 
-### 💼 Courses & Certifications
-- 🎓 Full Stack Dev Bootcamp @ PW Skills
-- 🧮 Striver’s DSA Sheet (YouTube)
-- 🤖 AI/ML & Python Automation Projects
-- 🏗️ System Design Crash Courses
+## What's next
+
+- Finishing the DevOps agent and deploying it end-to-end
+- Building out 3 more portfolio-grade projects (distributed systems + AI, not more CRUD apps)
+- Getting DSA to a level I trust under pressure, not just on paper
+- Open to contributing to open-source AI infra projects (LangChain4j / Spring AI ecosystem)
 
 ---
 
-### 🌟 Featured Projects
-| Project | Description | Tech Stack | Demo |
-|--------|-------------|------------|------|
-| 🐰 [Rabbit – Food Delivery App](https://github.com/GauriKansal6533/Rabbit-A-Food-Delivery-App.git) | Real-time food ordering app with secure authentication, intuitive UI, and live order updates | React, Node.js, MongoDB | [Live](https://rabbit-a-food-delivery-appfrontend.onrender.com) |
-| 🧠 [AI Resume Analyzer](https://github.com/GauriKansal6533/AI-Resume-Analyzer.git) | Smart AI tool that analyzes resumes, scores skills, and provides improvement suggestions | Python, Flask, OpenAI API | [Live](#) |
+## Talk to me
 
----
+I reply fast and I don't ghost. If you're hiring or have freelance work that fits what's above:
 
-### 🔧 Tech Stack
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,mongodb,python,flask,ai,git,github,cpp,vscode" />
-</p>
+- 📧 Email: **[rkgauri369@gmail.com]**
+- 💼 LinkedIn: **[https://www.linkedin.com/in/gaurikansal6533/]**
+- 🧩 LeetCode: **[https://leetcode.com/u/GauriKansal6533/]**
+  
 
-**Frontend:** HTML, CSS, JavaScript, React  
-**Backend:** Node.js, Express, Flask, MongoDB  
-**AI/ML Tools:** Python, scikit-learn, Pandas, NumPy, LangChain, OpenAI APIs  
-**Tools & Others:** Git, GitHub, VSCode, Docker (optional)
-
----
-
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=GauriKansal6533&show_icons=true&theme=tokyonight&hide_border=true" height="180"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GauriKansal6533&layout=compact&theme=tokyonight&hide_border=true" height="180"/>
-</p>
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=GauriKansal6533&theme=tokyonight)
-
----
-
-### 📫 Connect With Me
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/your-link/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white" /></a>
-  <a href="mailto:your-email@example.com"><img src="https://img.shields.io/badge/Gmail-red?logo=gmail&logoColor=white" /></a>
-  <a href="https://your-portfolio.com"><img src="https://img.shields.io/badge/Portfolio-black?logo=githubpages&logoColor=white" /></a>
-  <a href="https://leetcode.com/your-username"><img src="https://img.shields.io/badge/LeetCode-orange?logo=leetcode&logoColor=white" /></a>
-</p>
-
----
-
-### ⚡ Fun Fact
-> I don’t just code apps — I combine AI, SaaS, and Full Stack skills to solve real-world problems 💻🌱
-
----
-
-### 🚀 Goals for 2025-26
-- Contribute to Open Source AI & ML projects 🌐  
-- Build scalable Full Stack SaaS products with AI integration 🤖  
-- Master System Design & DSA to level up problem-solving skills 🧩  
